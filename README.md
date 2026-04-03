@@ -4,7 +4,7 @@ Change the windows wallpaper with AI generated images, based on an existing imag
 
 This project uses the free LLMs from https://Pollinations.ai and is based on my PowerShell library [PollinationsAiPS](https://github.com/BananaAcid/PollinationsAiPS) (GitHub).
 
-## Wikipedia Logo Example
+---
 
 ![Examples](https://github.com/user-attachments/assets/c06a20f9-4857-40ad-96f1-7f2efae537bc)
 
