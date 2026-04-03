@@ -60,12 +60,12 @@ $settings = @{ width = "2048"; height = "1152" }
 .\Update-Wallpaper -Color yellow -Content $Content -Image $Uri -Settings $settings
 ```
 
-### NOTES
+### Notes
 All paths should be absolute, when using `-TaskScheduler` !!!
 
 If a wallpaper_config.ps1 file is found, it will be used as the config
 
-Logo Reference: https://en.wikipedia.org/wiki/File:Wikipedia-logo-v2.svg
+Originates from an example at [PollinationsAiPS - image.md - tint-an-image-and-set-as-wallpaper](https://github.com/BananaAcid/PollinationsAiPS/blob/main/docs/image.md#tint-an-image-and-set-as-wallpaper)
 
 
 ## Parameters
